@@ -89,3 +89,9 @@ public access” option. And check the warning below.
 
 
 ![image](public.png)
+
+
+
+
+After creating your bucket, click on its name. In my case, I will click on
+“aws-serverlessproject-bucket-1987.
