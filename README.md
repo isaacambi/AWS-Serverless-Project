@@ -159,3 +159,10 @@ And then check it, go to Actions and Explore items.
 
 
 ![image](explore.png)
+
+
+In this new section, we are going to add items to our DynamoDB table, so we 
+can display them on our frontend. Click on Create item and wait for the
+dialog to open.
+
+Select JSON view on the right side, add the JSON below for each item at a time, and save changes.
