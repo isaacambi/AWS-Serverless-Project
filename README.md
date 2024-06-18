@@ -343,3 +343,6 @@ Select GET, click save, and Deploy your API Gateway again. You can use the stage
 
 
 After doing it, search for invoke URL and copy it.
+
+
+![image](details.png)
