@@ -315,5 +315,7 @@ And then you can proceed.
 ![image](integrate.png)
 
 
+Now you can click on Deploy API.
+
 
 ![image](Deploy.png)
