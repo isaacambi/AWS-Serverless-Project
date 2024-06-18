@@ -293,3 +293,6 @@ Now, we have to click on Create resource, at the left corner of the page.
 
 
 Give it a name, and click on Create resource.
+
+
+![image](project.png)
