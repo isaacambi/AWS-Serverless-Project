@@ -384,3 +384,7 @@ and scroll down until you find Static website hosting. There you can find your b
 
 
 ![image](list.png)
+
+
+After opening it, check if the users are displayed on the page and if so,
+congratulations, you just finished your project!
