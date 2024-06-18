@@ -287,3 +287,6 @@ You can click on Create API.
 
 
 Now, we have to click on Create resource, at the left corner of the page.
+
+
+![image](resource.png)
