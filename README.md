@@ -101,3 +101,9 @@ On the new page, upload the index.html and the app.js that we created at the Set
 
 
 ![image](upload.png)
+
+
+Now, click on the Properties tab and scroll down until Static website hosting and click on Edit.
+
+
+![image](overview.png)
