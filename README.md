@@ -257,3 +257,6 @@ Then click on the "Role name"
 
 Type DynamoDB on the search bar, and check the AmazonDynamoDBFullAccess policy. 
 And finally, click on Add permissions.
+
+
+![image](permission.png)
