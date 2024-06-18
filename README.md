@@ -208,3 +208,8 @@ Select JSON view on the right side, add the JSON below for each item at a time, 
 For our backend, we are going to use a Lambda function. So let’s access Lambda service
 and create a new function. Give it a name and choose Python 3.12 as the runtime. 
 Than proceed to create it.
+
+click on Lambda
+
+
+![image](lambda.png)
