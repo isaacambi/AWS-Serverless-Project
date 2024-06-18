@@ -246,3 +246,6 @@ our DynamoDB table. Click on the Configuration tab, then Permissions.
 
 
 ![image](config.png)
+
+
+Click on Add permissions and Attach policies.
