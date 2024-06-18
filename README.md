@@ -194,3 +194,5 @@ Select JSON view on the right side, add the JSON below for each item at a time, 
     "occupation": {"S": "Developer"}
   }
 ```
+
+![image](JSON.png)
