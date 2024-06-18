@@ -275,4 +275,4 @@ API Gateway. Access the API Gateway service page, and seach for Rest API, and cl
 click on Apigateway
 
 
-![image](Rest.png)
+
