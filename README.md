@@ -353,3 +353,21 @@ We have to edit our app.js file, to include this Invoke URL. If you open app.js 
 you will find a place to include it. You have to include your resource name at the end of the URL.
 
 For instance, here is my app.js updated:
+
+
+```
+window.onload = function() {
+    fetch('https://5i7x6m00a4.execute-api.us-east-1.amazonaws.com/Serverlessstage')
+        .then(response => response.json())
+        .then(data => {
+            const usersList = document.getElementById('usersList');
+            const users = data.body;
+            users.forEach(user => {
+                const userDiv = document.createElement('div');
+                userDiv.textContent = `ID: ${user.id}, First Name: ${user.firstname}, Last Name: ${user.lastname}, Occupation: ${user.occupation}`;
+                usersList.appendChild(userDiv);
+            });
+        })
+        .catch(error => console.error('Error fetching data:', error));
+};
+```
