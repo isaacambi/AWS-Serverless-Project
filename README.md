@@ -249,3 +249,4 @@ our DynamoDB table. Click on the Configuration tab, then Permissions.
 
 
 Click on Add permissions and Attach policies.
+Then click on the "Role name"
