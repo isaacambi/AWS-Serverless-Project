@@ -237,3 +237,5 @@ def lambda_handler(event, context):
     
     return response
 ```
+
+![image](function.png)
