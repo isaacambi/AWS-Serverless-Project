@@ -150,4 +150,4 @@ Letâ€™s jump into the service and create a new table. Give it a name and type â€
 the Partition key section. You can leave the rest as default.
 
 
-![image](DynamoDB.png)
+![image](DynamoDb.png)
