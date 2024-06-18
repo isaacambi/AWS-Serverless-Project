@@ -270,3 +270,6 @@ API Gateway. Access the API Gateway service page, and seach for Rest API, and cl
 
 
 ![image](api.png)
+
+
+click on Apigateway
