@@ -260,3 +260,10 @@ And finally, click on Add permissions.
 
 
 ![image](permission.png)
+
+
+
+7. Deploying our API Gateway
+
+To serve as our bridge between frontend (S3) and backend (Lambda), we are using
+API Gateway. Access the API Gateway service page, and seach for Rest API, and click Build.
