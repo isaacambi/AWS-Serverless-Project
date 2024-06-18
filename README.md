@@ -284,3 +284,6 @@ You can click on Create API.
 
 
 ![image](restapi.png)
+
+
+Now, we have to click on Create resource, at the left corner of the page.
