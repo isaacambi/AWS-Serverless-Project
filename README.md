@@ -346,3 +346,10 @@ After doing it, search for invoke URL and copy it.
 
 
 ![image](details.png)
+
+
+
+We have to edit our app.js file, to include this Invoke URL. If you open app.js locally,
+you will find a place to include it. You have to include your resource name at the end of the URL.
+
+For instance, here is my app.js updated:
