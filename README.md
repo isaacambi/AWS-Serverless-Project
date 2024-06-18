@@ -148,3 +148,6 @@ to your bucket name on the resource field. And then, you can save changes.
 We have to pull our data from somewhere, so it’s going to be from a DynamoDB table.
 Let’s jump into the service and create a new table. Give it a name and type “id” at
 the Partition key section. You can leave the rest as default.
+
+
+![image](DynamoDB.png)
