@@ -51,3 +51,23 @@ index.html
 </body>
 </html>
 ```
+
+app.js
+
+
+```
+window.onload = function() {
+    fetch('YOUR_API_GATEWAY_URL')
+        .then(response => response.json())
+        .then(data => {
+            const usersList = document.getElementById('usersList');
+            const users = data.body;
+            users.forEach(user => {
+                const userDiv = document.createElement('div');
+                userDiv.textContent = `ID: ${user.id}, First Name: ${user.firstname}, Last Name: ${user.lastname}, Occupation: ${user.occupation}`;
+                usersList.appendChild(userDiv);
+            });
+        })
+        .catch(error => console.error('Error fetching data:', error));
+};
+```
