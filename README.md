@@ -6,6 +6,8 @@
 ![image](aws.png)
 
 
+
+
 1. Introduction to our project
 
 In this project, we are going to build a simple serverless application using AWS services.
