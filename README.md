@@ -339,3 +339,7 @@ Select GET, click save, and Deploy your API Gateway again. You can use the stage
 
 
 ![image](cor.png)
+
+
+
+After doing it, search for invoke URL and copy it.
