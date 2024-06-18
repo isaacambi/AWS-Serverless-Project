@@ -80,3 +80,12 @@ a unique name for your bucket
 
 
 ![image](serverless.png)
+
+
+
+
+Our bucket should be accessible publicly. So let’s uncheck the “Block all
+public access” option. And check the warning below.
+
+
+![image](public.png)
