@@ -313,3 +313,7 @@ And then you can proceed.
 
 
 ![image](integrate.png)
+
+
+
+![image](Deploy.png)
