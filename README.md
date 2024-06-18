@@ -114,3 +114,24 @@ type index.html for the index document and save changes.
 
 
 ![image](enable.png)
+
+
+
+Now go to the Permissions tab so we can add a bucket policy. On the bucket
+policy part, click on edit and add the following policy. Remember to change 
+to your bucket name on the resource field. And then, you can save changes.
+
+```
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "PublicReadGetObject",
+      "Effect": "Allow",
+      "Principal": "*",
+      "Action": "s3:GetObject",
+      "Resource": "arn:aws:s3:::YOUR-BUCKET-NAME/*"
+    }
+  ]
+}
+```
