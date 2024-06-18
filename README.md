@@ -135,3 +135,6 @@ to your bucket name on the resource field. And then, you can save changes.
   ]
 }
 ```
+
+
+![image](bucketpolicy1.png)
