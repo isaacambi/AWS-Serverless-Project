@@ -71,3 +71,10 @@ window.onload = function() {
         .catch(error => console.error('Error fetching data:', error));
 };
 ```
+
+4. Creating a S3 bucket
+
+We are going to use a S3 bucket to host our frontend application, so first, go to the S3 
+service and click to create a new bucket. In the new page, you have to choose a region and
+a unique name for your bucket
+
