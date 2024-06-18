@@ -221,3 +221,19 @@ click on Lambda
 
 In the new page, scroll down to the Code source section, and add
 the following code snippet. Then click in Deploy.
+
+
+```
+import boto3
+
+def lambda_handler(event, context):
+    dynamo = boto3.resource('dynamodb').Table('aws-serverless-project-table')
+    data = dynamo.scan()
+    p
+    response = {
+        'statusCode': 200,
+        'body': data['Items']
+    }
+    
+    return response
+```
