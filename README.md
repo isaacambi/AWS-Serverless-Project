@@ -175,3 +175,13 @@ Select JSON view on the right side, add the JSON below for each item at a time, 
     "occupation": {"S": "Engineer"}
   }
   ```
+
+
+```
+  {
+    "id": {"S": "2"},
+    "firstname": {"S": "Jane"},
+    "lastname": {"S": "Smith"},
+    "occupation": {"S": "Designer"}
+  }
+```
