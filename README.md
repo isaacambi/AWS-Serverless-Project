@@ -328,3 +328,6 @@ On the new dialog, select New Stage, and give it a name. And then, deploy it.
 
 
 After deploying, click on the resource that you created and click on Enable CORS.
+
+
+![image](update.png)
