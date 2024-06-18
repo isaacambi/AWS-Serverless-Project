@@ -38,3 +38,16 @@ We have to create some files to our frontend. So here is the code for you:
 
 index.html
 
+```
+<!DOCTYPE html>
+<html>
+<head>
+<title>User Management</title>
+<script src="app.js"></script>
+</head>
+<body>
+<h1>List of Users</h1>
+<div id="usersList"></div>
+</body>
+</html>
+```
