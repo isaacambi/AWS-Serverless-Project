@@ -151,3 +151,8 @@ the Partition key section. You can leave the rest as default.
 
 
 ![image](DynamoDb.png)
+
+
+
+Wait a few moments for your database to come up.
+And then check it, go to Actions and Explore items.
