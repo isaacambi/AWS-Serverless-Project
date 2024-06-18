@@ -380,3 +380,7 @@ After doing it, go back to your S3 bucket, delete the app.js, and upload the upd
 
 To test our application, we have to find our bucket URL. On your bucket page, go to Properties
 and scroll down until you find Static website hosting. There you can find your bucket URL.
+
+
+
+![image](list.png)
