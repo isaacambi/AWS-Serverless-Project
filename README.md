@@ -243,3 +243,6 @@ def lambda_handler(event, context):
 
 After doing that, we have to give permission to our Lambda function to access 
 our DynamoDB table. Click on the Configuration tab, then Permissions.
+
+
+![image](config.png)
