@@ -322,3 +322,6 @@ Now you can click on Deploy API.
 
 
 On the new dialog, select New Stage, and give it a name. And then, deploy it.
+
+
+![image](newstage.png)
