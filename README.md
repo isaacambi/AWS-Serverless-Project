@@ -107,3 +107,10 @@ Now, click on the Properties tab and scroll down until Static website hosting an
 
 
 ![image](overview.png)
+
+
+On the edit dialog, check Enable for Static website hosting and 
+type index.html for the index document and save changes.
+
+
+![image](enable.png)
