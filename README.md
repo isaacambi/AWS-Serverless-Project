@@ -95,3 +95,6 @@ public access” option. And check the warning below.
 
 After creating your bucket, click on its name. In my case, I will click on
 “aws-serverlessproject-bucket-1987.
+
+
+On the new page, upload the index.html and the app.js that we created at the Setup stage.
