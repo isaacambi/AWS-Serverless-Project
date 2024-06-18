@@ -217,3 +217,7 @@ click on Lambda
 
 
 ![image](scratch.png)
+
+
+In the new page, scroll down to the Code source section, and add
+the following code snippet. Then click in Deploy.
