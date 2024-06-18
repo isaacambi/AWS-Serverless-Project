@@ -196,3 +196,7 @@ Select JSON view on the right side, add the JSON below for each item at a time, 
 ```
 
 ![image](JSON.png)
+
+
+
+![image](scan.png)
