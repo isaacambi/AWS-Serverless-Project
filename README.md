@@ -290,3 +290,6 @@ Now, we have to click on Create resource, at the left corner of the page.
 
 
 ![image](resource.png)
+
+
+Give it a name, and click on Create resource.
