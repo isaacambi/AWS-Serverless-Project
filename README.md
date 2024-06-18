@@ -138,3 +138,13 @@ to your bucket name on the resource field. And then, you can save changes.
 
 
 ![image](bucketpolicy1.png)
+
+
+
+
+
+5. Setting up a DynamoDB table
+
+We have to pull our data from somewhere, so it’s going to be from a DynamoDB table.
+Let’s jump into the service and create a new table. Give it a name and type “id” at
+the Partition key section. You can leave the rest as default.
