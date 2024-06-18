@@ -78,3 +78,5 @@ We are going to use a S3 bucket to host our frontend application, so first, go t
 service and click to create a new bucket. In the new page, you have to choose a region and
 a unique name for your bucket
 
+
+![image](serverless.png)
