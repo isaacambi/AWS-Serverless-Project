@@ -336,3 +336,6 @@ After deploying, click on the resource that you created and click on Enable CORS
 
 
 Select GET, click save, and Deploy your API Gateway again. You can use the stage that was created before.
+
+
+![image](cor.png)
