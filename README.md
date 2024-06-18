@@ -296,3 +296,6 @@ Give it a name, and click on Create resource.
 
 
 ![image](project.png)
+
+
+Let’s click on Create method.
