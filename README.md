@@ -299,3 +299,6 @@ Give it a name, and click on Create resource.
 
 
 Let’s click on Create method.
+
+
+![image](recreate.png)
