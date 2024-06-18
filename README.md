@@ -98,3 +98,6 @@ After creating your bucket, click on its name. In my case, I will click on
 
 
 On the new page, upload the index.html and the app.js that we created at the Setup stage.
+
+
+![image](upload.png)
