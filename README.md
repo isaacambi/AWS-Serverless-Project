@@ -302,3 +302,10 @@ Let’s click on Create method.
 
 
 ![image](recreate.png)
+
+
+
+
+Select the Method type as GET, and select the Integration type as Lambda Function. 
+Below, you will have to select the Lambda function that you have just created.
+And then you can proceed.
