@@ -276,4 +276,4 @@ click on Apigateway
 
 
 
-![image](rest.png)
+![image](Rest.png)
