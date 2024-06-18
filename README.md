@@ -281,3 +281,6 @@ click on Apigateway
 
 Give a name to your API Gateway and leave the rest as default. 
 You can click on Create API.
+
+
+![image](restapi.png)
